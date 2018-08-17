@@ -1,3 +1,3 @@
 # Elodie Bot
 
-Web Site of the Elodie bot
+Website of the Elodie bot
